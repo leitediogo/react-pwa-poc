@@ -9,9 +9,8 @@ class App extends Component {
         <header className="App-header">
           <h1 className="App-title">W</h1>
         </header>
-        <Icon>star</Icon>
         <p className="App-intro">
-          <code>PWA REACT APP</code>
+          <code>PWA React PoC</code>
         </p>
         <C1/>
       </div>
