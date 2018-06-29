@@ -1,0 +1,15 @@
+{
+  "short_name": "PWA React",
+  "name": "PWA React App Sample",
+  "icons": [
+    {
+      "src": "leo.jpg",
+      "sizes": "512x512",
+      "type": "image/jpg"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
