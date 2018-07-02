@@ -3,14 +3,14 @@
   "name": "PWA React App Sample",
   "icons": [
     {
-      "src": "leo.jpg",
-      "sizes": "192x192",
-      "type": "image/jpg"
+      "src": "icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
     },
     {
-      "src": "leo.jpg",
-      "sizes": "512x512",
-      "type": "image/jpg"
+      "src": "icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
     }
   ],
   "start_url": "./index.html",
